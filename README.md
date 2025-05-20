@@ -6,6 +6,13 @@ Proyek ini mengembangkan model deep learning untuk mengklasifikasikan gambar ret
 
 ---
 
+## Download Dataset
+
+Dataset retina untuk klasifikasi biner ini dapat diunduh di Kaggle melalui link berikut:  
+[Retina Image for Binary Classification - Kaggle](https://www.kaggle.com/datasets/hardikchhipa28/retina-image-for-binary-classification/data)
+
+---
+
 ## Lingkup Proyek
 
 - **Dataset**: Gambar retina (label `train_images`) dan gambar non-retina (`non-dr`).
