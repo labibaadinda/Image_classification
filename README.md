@@ -17,7 +17,7 @@ Dataset retina untuk klasifikasi biner ini dapat diunduh di Kaggle melalui link 
 
 - **Dataset**: Gambar retina (label `train_images`) dan gambar non-retina (`non-dr`).
 - **Tujuan**: Melatih model deep learning untuk membedakan antara gambar retina dan non-retina dengan akurasi tinggi.
-- **Aplikasi**: Deteksi otomatis pada oftalmologi, screening penyakit retina, dan potensi biometrik.
+- **Aplikasi**: Deteksi otomatis pada 
 
 ---
 
@@ -108,8 +108,7 @@ Label kelas (`non-dr` dan `train_images`) disimpan ke file `tflite/label.txt` un
 1. **Persiapkan dataset** dengan struktur folder sesuai label.
 2. **Jalankan notebook** untuk training, tuning, evaluasi, dan konversi model.
 3. **Unduh model** dalam format yang diinginkan (SavedModel, TFLite, TensorFlow.js).
-4. **Gunakan label.txt** sebagai referensi label kelas pada aplikasi deployment.
-
+4. **Gunakan label.txt** sebagai referensi label kelas
 ---
 
 ## Requirements
