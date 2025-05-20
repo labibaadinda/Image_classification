@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini mengembangkan model deep learning untuk mengklasifikasikan gambar retina dan non-retina secara biner. Dataset yang digunakan berisi gambar retina berkualitas tinggi dan gambar non-retina sebagai pembanding. Proyek ini bertujuan untuk aplikasi deteksi otomatis di bidang oftalmologi dan berpotensi dikembangkan untuk biometrik, karena pola retina tiap orang unik.
+Proyek ini mengembangkan model deep learning untuk mengklasifikasikan gambar retina dan non-retina secara biner. Dataset yang digunakan berisi gambar retina berkualitas tinggi dan gambar non-retina sebagai pembanding. Proyek ini bisa dikembangkan untuk bidang oftalmologi dan berpotensi dikembangkan untuk biometrik, karena pola retina tiap orang unik.
 
 ---
 
