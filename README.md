@@ -17,7 +17,6 @@ Dataset retina untuk klasifikasi biner ini dapat diunduh di Kaggle melalui link 
 
 - **Dataset**: Gambar retina (label `train_images`) dan gambar non-retina (`non-dr`).
 - **Tujuan**: Melatih model deep learning untuk membedakan antara gambar retina dan non-retina dengan akurasi tinggi.
-- **Aplikasi**: Deteksi otomatis pada 
 
 ---
 
